@@ -1,0 +1,33 @@
+.header{
+    background-color: #19adf6;
+    justify-content: space-between;
+    display: -moz-box;
+}
+
+.menu{
+    display:flex;
+    justify-content:space-between ;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #effeff;
+}
+body{
+    margin: 0px;
+    background-color: #8d9f8f;
+}
+.grid img{
+    border : 2px solid #000000;
+    border-radius: 50px;;
+}
+
+.oigami{
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    display: flexbox;
+    width:310px;
+    font-family:fantasy;
+}
